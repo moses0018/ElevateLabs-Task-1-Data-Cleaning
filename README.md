@@ -48,13 +48,13 @@ Generated `Mall_Customers_cleaned.csv` as the final cleaned output.
 - `README.md` — Documentation  
 
 
-## 🛠 Tools Used
+##  Tools Used
 - Excel Online (Office 365)  
 - Jupyter Notebook  
 - GitHub  
 
 
-## 🎯 Outcome  
+##  Outcome  
 The dataset is fully cleaned, standardized, and ready for:
 - Exploratory Data Analysis  
 - Customer Segmentation  
